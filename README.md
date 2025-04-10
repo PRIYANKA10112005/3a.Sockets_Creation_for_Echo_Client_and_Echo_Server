@@ -9,7 +9,7 @@ Sockets Links.
  server .
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-
+ 
 ### server:
 ```python
 import socket
@@ -54,10 +54,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client_socket:
 
 ## OUPUT
 
-![image](https://github.com/user-attachments/assets/ff611de3-ecb3-42b3-9b2c-c7ce151018e6)
+![Screenshot 2025-04-10 104842](https://github.com/user-attachments/assets/e04df8d1-60e8-461e-b036-2c82967fe13b)
 
-![image](https://github.com/user-attachments/assets/7c54f430-d3be-45bb-b4d7-bebcec3a54ff)
-
+![Screenshot 2025-04-10 104917](https://github.com/user-attachments/assets/43248d8e-a873-4793-8c94-4f20ee224dbe)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
